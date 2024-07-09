@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-LLMPhone/Pods-LLMPhone-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core-60309c9c/RCTI18nStrings.bundle
+${PODS_ROOT}/../../node_modules/llama.rn/cpp/ggml-metal.metal

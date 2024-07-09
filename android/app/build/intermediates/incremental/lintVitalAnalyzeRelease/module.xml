@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/jinendramalekar/Desktop/llmphone/LLMPhone/android/app"
+    name=":app"
+    type="APP"
+    maven="LLMPhone:app:"
+    agpVersion="8.1.1"
+    buildFolder="build"
+    bootClassPath="/Users/jinendramalekar/Library/Android/sdk/platforms/android-34/android.jar:/Users/jinendramalekar/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,6 @@
+module folly {
+  umbrella header "RCT-Folly.common-Fabric-umbrella.h"
+
+  export *
+  module * { export * }
+}

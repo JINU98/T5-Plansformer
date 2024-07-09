@@ -1,0 +1,4 @@
+#Wed Mar 27 17:25:53 EDT 2024
+base.0=/Users/jinendramalekar/Desktop/llmphone/LLMPhone/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
